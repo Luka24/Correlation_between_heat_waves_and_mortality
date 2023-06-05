@@ -2,6 +2,8 @@
 
 This script performs analysis on temperature data and mortality data. It calculates the 90th percentile of temperature values, identifies consecutive days above the 90th percentile as heat waves, and performs t-tests on mortality data during heat waves compared to non-heat wave periods.
 
+The repository contains a Jupyter notebook file, named `correlation_between_heat_waves_and_mortality.ipynb`, which showcases the code and analysis for the project
+
 Dependencies
 ------------
 
